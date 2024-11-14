@@ -12,7 +12,7 @@ This script spawns invisible bots around the player when they are shooting with 
 1. **Download** the script and place it in your `resources` folder on your FiveM server.
 2. **Add** the following line to your `server.cfg`:
    ```plaintext
-   ensure aimbotcheck
+   ensure aimbotchecker
 
 
 3. Restart your server, and the script will be active.
