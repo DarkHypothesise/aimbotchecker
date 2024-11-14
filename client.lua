@@ -38,7 +38,7 @@ function spawnInvisibleBotsAroundPlayer(player)
 
             muteBot(bot)
             
-            SetEntityVisible(bot, true)   
+            SetEntityVisible(bot, false)   
             SetBlockingOfNonTemporaryEvents(bot, true) 
             SetEntityCollision(bot, false, false)
             FreezeEntityPosition(bot, true)
